@@ -35,8 +35,9 @@ MTG is a human-annotated multilingual multiway dataset. Multiway means that the 
 ## MTG's subsets and sample sizes
 
 <!-- ![MTG-statistics](/uploads/dataset_statistics.jpg) -->
-
-<img src="/uploads/dataset_statistics.jpg" style="zoom:40%" align=center/>
+<div  align="center"> 
+<img src="/uploads/dataset_statistics.jpg" style="zoom:25%" align=center/>
+</div>
 
 ## MTG's tasks overviews
 

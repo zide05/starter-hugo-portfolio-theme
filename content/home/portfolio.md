@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Story Generation
+      tag: SG
+    - name: Question Generation
+      tag: QG
+    - name: Title Generation
+      tag: TG
+    - name: Text Summarization
+      tag: Summ
 
 design:
   columns: '1'

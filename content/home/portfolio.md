@@ -25,20 +25,20 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Story Generation
-      tag: SG
-    - name: Question Generation
-      tag: QG
-    - name: Title Generation
-      tag: TG
-    - name: Text Summarization
-      tag: Summ
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Story Generation
+  #     tag: SG
+  #   - name: Question Generation
+  #     tag: QG
+  #   - name: Title Generation
+  #     tag: TG
+  #   - name: Text Summarization
+  #     tag: Summ
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}

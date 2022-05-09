@@ -1,5 +1,5 @@
 ---
-title: Story generation
+title: Story Generation
 summary: Generate the end of a given story context.
 tags:
   - SG

@@ -1,5 +1,5 @@
 ---
-title: Question generation
+title: Question Generation
 summary: Generate a correct question for a given passage and its answer.
 tags:
   - QG

@@ -27,7 +27,7 @@ item:
     title: Story Generation
     organization: ''
     date_start: ''
-    url: 'https://drive.google.com/file/d/1Az8ZigSMaAVnXPna60jBVGAt5vqi901g/view?usp=sharing'
+    url: https://drive.google.com/file/d/1Az8ZigSMaAVnXPna60jBVGAt5vqi901g/view?usp=sharing
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: ''

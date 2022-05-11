@@ -23,16 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+  - description: 'Generate the end of a given story context.'
+    title: Story Generation
+    organization: ''
+    date_start: ''
+    url: 'https://drive.google.com/file/d/1Az8ZigSMaAVnXPna60jBVGAt5vqi901g/view?usp=sharing'
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: ''
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org

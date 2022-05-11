@@ -23,11 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - description: 'Generate the end of a given story context.'
-    title: Story Generation
-    organization: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: ''
-    url: https://drive.google.com/file/d/1Az8ZigSMaAVnXPna60jBVGAt5vqi901g/view?usp=sharing
+    description: ''
+    organization: ''
+    organization_url: ''
+    title: test
+    url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: ''

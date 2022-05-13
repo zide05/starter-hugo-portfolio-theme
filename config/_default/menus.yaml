@@ -10,9 +10,9 @@ main:
   - name: Dataset
     url: '#portfolio'
     weight: 30
-  - name: Taks
-    url: '#tasks'
-    weight: 35
+  # - name: Taks
+  #   url: '#tasks'
+  #   weight: 35
   - name: About
     url: '#info'
     weight: 40

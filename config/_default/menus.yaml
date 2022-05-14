@@ -24,9 +24,9 @@ main:
   - name: Task
     url: '#task'
     weight: 60
-  - name: Posts
-    url: '#posts'
-    weight: 70
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 70
   
   # - name: Leaderboard
   # url: '#leaderboard'

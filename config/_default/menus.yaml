@@ -24,6 +24,4 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
-  - name: Task
-    url: '#task'
-    weight: 80
+  

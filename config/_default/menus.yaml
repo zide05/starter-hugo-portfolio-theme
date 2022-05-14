@@ -9,9 +9,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Task
-    url: '#task'
-    weight: 20
   - name: Dataset
     url: '#portfolio'
     weight: 30
@@ -27,3 +24,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 70
+  - name: Task
+    url: '#task'
+    weight: 80

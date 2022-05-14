@@ -17,12 +17,15 @@ main:
     weight: 30
   - name: Citation
     url: '#citation'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 50
   - name: Task
     url: '#task'
+    weight: 60
+  - name: Posts
+    url: '#posts'
     weight: 70
   
   # - name: Leaderboard

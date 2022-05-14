@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: MTG Benchmark # Website name
-baseURL: 'https://fluffy-biscuit-8a377d.netlify.app/' # Website URL
+baseURL: 'https://mtg-benchmark.netlify.app/' # Website URL
 
 ############################
 ## PAGE OPTIONS

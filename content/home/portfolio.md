@@ -8,9 +8,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Datasets
+title: ''
 subtitle: ''
 
 content:
@@ -36,7 +36,7 @@ content:
       tag: Summ
 
 design:
-  columns: '2'
+  columns: '1'
   view: masonry
   flip_alt_rows: false
   background: {}

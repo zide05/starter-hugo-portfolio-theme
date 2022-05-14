@@ -9,7 +9,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Dataset
+  - name: Download
     url: '#portfolio'
     weight: 20
   - name: About

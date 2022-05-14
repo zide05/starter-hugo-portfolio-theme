@@ -16,7 +16,7 @@ title: Citation
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: 
     image_darken: 1.0

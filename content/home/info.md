@@ -10,13 +10,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: About MTG
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: 
     image_darken: 1.0

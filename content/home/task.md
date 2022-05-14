@@ -26,11 +26,11 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2020-07-01'
-    description: ''
+    description: 'Condense the source document into a coherent, concise, and fluent summary.'
     organization: ' '
-    organization_url: https://www.coursera.org
-    title: Summarization
-    url: ''
+    organization_url: ''
+    title: Text Summarization
+    url: 'https://drive.google.com/file/d/1FIuIei_dGdzKzswBm6kG3e7DphfXDOOj/view?usp=sharing'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2020-07-01'

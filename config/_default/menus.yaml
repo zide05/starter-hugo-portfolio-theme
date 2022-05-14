@@ -11,17 +11,17 @@ main:
     weight: 10
   - name: Dataset
     url: '#portfolio'
-    weight: 30
+    weight: 20
   - name: About
     url: '#info'
-    weight: 40
+    weight: 30
   - name: Leaderboard
     url: '#leaderboard'
-    weight: 50
+    weight: 40
   - name: Citation
     url: '#citation'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
   

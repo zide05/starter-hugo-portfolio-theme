@@ -15,9 +15,6 @@ main:
   - name: About
     url: '#info'
     weight: 30
-  - name: Leaderboard
-    url: '#leaderboard'
-    weight: 40
   - name: Citation
     url: '#citation'
     weight: 50
@@ -28,3 +25,6 @@ main:
     url: '#task'
     weight: 70
   
+  # - name: Leaderboard
+  # url: '#leaderboard'
+  # weight: 40

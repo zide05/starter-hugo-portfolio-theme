@@ -16,7 +16,7 @@ title: Contact
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: 
     image_darken: 1.0
@@ -30,5 +30,5 @@ design:
 
 
 <div style="text-align: center;">
-<b>If you have any questions, feel free to <a href="mailto:yrchen19@fudan.edu.cn">contact us</a>!</b>
+<b>If you have any questions or want to evaluate your system outputs with the mentioned metrics in our paper, feel free to <a href="mailto:yrchen19@fudan.edu.cn">contact us</a>!</b>
 </div>

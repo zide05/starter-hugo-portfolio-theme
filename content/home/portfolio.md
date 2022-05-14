@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: Datasets
 subtitle: ''
 
 content:
@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: "*"
+      tag: '*'
     - name: Story Generation
       tag: SG
     - name: Question Generation
@@ -38,7 +38,7 @@ content:
       tag: Summ
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: false
   background: {}

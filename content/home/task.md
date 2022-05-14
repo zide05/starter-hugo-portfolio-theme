@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
-    date_start: ''
+    date_start: '2020-07-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: ''
+    date_start: '2020-07-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
     organization_url: https://www.edx.org

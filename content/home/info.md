@@ -16,7 +16,7 @@ title: About MTG
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: 
     image_darken: 1.0

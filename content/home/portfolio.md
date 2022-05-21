@@ -42,5 +42,5 @@ design:
   view: masonry
   flip_alt_rows: false
   background: {}
-  spacing: {padding: [0, "-20px", 0, "-20px"]}
+  spacing: {padding: [0, "-100px", 0, "-100px"]}
 ---

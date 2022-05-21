@@ -21,9 +21,9 @@ main:
   - name: Citation
     url: '#citation'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
   # - name: Task
   #   url: '#task'
   #   weight: 60

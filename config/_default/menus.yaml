@@ -21,6 +21,9 @@ main:
   - name: Citation
     url: '#citation'
     weight: 50
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

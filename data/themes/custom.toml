@@ -12,7 +12,7 @@ name = "Starter Blog"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(221, 221, 221)"
+  home_section_odd = "rgb(238, 238, 238)"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]

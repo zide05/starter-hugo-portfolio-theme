@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Citation
+title: Citation & Contact
 subtitle:
 
 design:
@@ -39,3 +39,6 @@ If you find this work useful to your research, please kindly cite our paper (pre
   year={2021}
 }
 ```
+
+<a href="mailto:
+chenyiran.robin@bytedance.com">Contact us</a> if you have any questions!

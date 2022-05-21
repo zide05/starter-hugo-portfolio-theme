@@ -31,5 +31,5 @@ design:
 
 <div style="text-align: center;">
 <a href="mailto:
-chenyiran.robin@bytedance.com">Contact us</a> any time if you have any questions!
+chenyiran.robin@bytedance.com">Contact us</a> if you have any questions!
 </div>

@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 title: Contact
 subtitle:
@@ -30,5 +30,6 @@ design:
 
 
 <div style="text-align: center;">
-<b>If you have any questions or want to evaluate your system outputs with the mentioned metrics in our paper, feel free to <a href="mailto:yrchen19@fudan.edu.cn">contact us</a>!</b>
+<b>If you have any questions, feel free to <a href="mailto:
+chenyiran.robin@bytedance.com">contact us</a>!</b>
 </div>

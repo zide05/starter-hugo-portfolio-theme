@@ -15,12 +15,15 @@ main:
   - name: About
     url: '#info'
     weight: 30
+  - name: Evaluation
+    url: '#evaluation'
+    weight: 40
   - name: Citation
     url: '#citation'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
   # - name: Task
   #   url: '#task'
   #   weight: 60

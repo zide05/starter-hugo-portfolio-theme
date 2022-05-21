@@ -12,8 +12,8 @@ name = "Starter Blog"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  home_section_odd = "rgb(240, 240, 245)"
+  home_section_even = "rgb(209, 209, 224)"
 
 [dark]
   primary = "#bbdefb"

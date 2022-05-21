@@ -30,6 +30,6 @@ design:
 
 
 <div style="text-align: center;">
-<b>If you have any questions, feel free to <a href="mailto:
-chenyiran.robin@bytedance.com">contact us</a>!</b>
+<a href="mailto:
+chenyiran.robin@bytedance.com">Contact us</a> any time if you have any questions!
 </div>

@@ -39,6 +39,9 @@ MTG is a human-annotated multilingual multiway dataset. Multiway means that the 
 <img src="/uploads/dataset_statistics.jpg" style="zoom:30%" align=center/>
 </div>
 
+{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpfCYVe3yAZeuNTYdClxWY8r3siS5cw3qDQQkBHk2gD4kTEwf7dsTigBfimfGHkYEKd8Jk31t4tazK/pubhtml?gid=0&single=true" >}}
+
+
 ## MTG's tasks overviews
 
 ![MTG-tasks](/uploads/tasks.jpg)

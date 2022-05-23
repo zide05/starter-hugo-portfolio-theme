@@ -30,14 +30,22 @@ design:
 MTG is a human-annotated multilingual multiway dataset. Multiway means that the same sample is expressed in multiple languages. It covers **four generation tasks** (story generation, question generation, title generation and text summarization) across **five languages** (English, German, French, Spanish and Chinese). 
 
 <!-- You can find the slides, poster and video about E-KAR at <a href="https://jiangjiechen.github.io/publication/ekar/">here</a>. -->
+<style>
+table
+{
+    margin: auto;
+}
+</style>
 
 
 ## MTG's subsets and sample sizes
 
 <!-- ![MTG-statistics](/uploads/dataset_statistics.jpg) -->
-<div  align="center"> 
+<!-- <div  align="center"> 
 <img src="/uploads/dataset_statistics.jpg" style="zoom:30%" align=center/>
-</div>
+</div> -->
+
+
 
 | **Task**                                     | **SG, QG, TG, Summ** |
 |-----------------------------------------------|---------------------:|
@@ -53,6 +61,11 @@ MTG is a human-annotated multilingual multiway dataset. Multiway means that the 
 
 
 ## MTG's tasks overviews
-
-![MTG-tasks](/uploads/tasks.jpg)
+|        **Task**        |   **Corpus**  | **Domain** |         **Format**         |               **Goal**               |
+|:----------------------:|:-------------:|:----------:|:--------------------------:|:------------------------------------:|
+|    Story Generation    | ROCStories    | Daily life |           <story>          | Generate the end of the   story      |
+|    Question Generation | SQUAD 1.0     | Wikipedia  | <passage,answer, question> | Generate the question of the answer  |
+|    Title Generation    | ByteCup       | News       |      <article, title>      | Generate the title of the document   |
+|    Text Summarization  | CNN/DailyMail | News       |     <article, summary>     | Generate the summary of the document |
+<!-- ![MTG-tasks](/uploads/tasks.jpg) -->
 

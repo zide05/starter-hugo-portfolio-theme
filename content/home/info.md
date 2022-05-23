@@ -51,7 +51,6 @@ MTG is a human-annotated multilingual multiway dataset. Multiway means that the 
 | Total dataset size                            |                 6.9m |
 
 
-<!-- {{< table path="statistics.csv" header="true" caption="Table 1: My results" >}} -->
 
 ## MTG's tasks overviews
 

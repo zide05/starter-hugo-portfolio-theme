@@ -39,7 +39,16 @@ MTG is a human-annotated multilingual multiway dataset. Multiway means that the 
 <img src="/uploads/dataset_statistics.jpg" style="zoom:30%" align=center/>
 </div>
 
-{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpfCYVe3yAZeuNTYdClxWY8r3siS5cw3qDQQkBHk2gD4kTEwf7dsTigBfimfGHkYEKd8Jk31t4tazK/pubhtml?gid=0&single=true" >}}
+| **Task **                                     | **SG, QG, TG, Summ** |
+|-----------------------------------------------|---------------------:|
+| **For each language**                         |                      |
+| Rough training size                           |    76k/61k/270k/164k |
+| Annotated training size                       |      15k/15k/15k/15k |
+| Annotated development size                    |          2k/2k/2k/2k |
+| Annotated test size                           |          3k/3k/3k/3k |
+| **For five languages   (en, de, fr, es, zh)** |                      |
+| Total Annotated size                          |                 400k |
+| Total dataset size                            |                 6.9m |
 
 
 ## MTG's tasks overviews

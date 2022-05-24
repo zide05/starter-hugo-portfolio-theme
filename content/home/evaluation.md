@@ -29,7 +29,7 @@ design:
 ---
 
 To evaluate your results on metrics mentioned in our paper, please send the system ouputs to <a href="mailto:
-chenyiran.robin@bytedance.com">this email</a>. We will send the evaluation results back to you as soon as possible.
+mtg_eval@bytedance.com">this email</a>. We will send the evaluation results back to you as soon as possible.
 
 
 The system ouputs files should be named as \[TG/QG/SG/Summ\]-xxx.json (e.g., TG-crosslingual_res.json). The json file should contain language (en, de, es, fr, zh) as key and the outputs list as value:

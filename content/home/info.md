@@ -41,11 +41,11 @@ table
 ## MTG's subsets and sample sizes
 
 <!-- ![MTG-statistics](/uploads/dataset_statistics.jpg) -->
-<!-- <div  align="center"> 
+<div  align="center"> 
 <img src="/uploads/dataset_statistics.jpg" style="zoom:30%" align=center/>
-</div> -->
+</div>
 
-
+<!-- 
 
 | **Task**                                     | **SG, QG, TG, Summ** |
 |-----------------------------------------------|---------------------:|
@@ -57,15 +57,18 @@ table
 | **For five languages   (en, de, fr, es, zh)** |                      |
 | Total Annotated size                          |                 400k |
 | Total dataset size                            |                 6.9m |
+ -->
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpfCYVe3yAZeuNTYdClxWY8r3siS5cw3qDQQkBHk2gD4kTEwf7dsTigBfimfGHkYEKd8Jk31t4tazK/pubhtml?widget=true&amp;headers=false"></iframe>
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpfCYVe3yAZeuNTYdClxWY8r3siS5cw3qDQQkBHk2gD4kTEwf7dsTigBfimfGHkYEKd8Jk31t4tazK/pubhtml?widget=true&amp;headers=false"></iframe> -->
 
 ## MTG's tasks overviews
+<!-- 
 |        **Task**        |   **Corpus**  | **Domain** |         **Format**         |               **Goal**               |
 |:----------------------:|:-------------:|:----------:|:--------------------------:|:------------------------------------:|
 |    Story Generation    | ROCStories    | Daily life |           <story>          | Generate the end of the   story      |
 |    Question Generation | SQUAD 1.0     | Wikipedia  | <passage,answer, question> | Generate the question of the answer  |
 |    Title Generation    | ByteCup       | News       |      <article, title>      | Generate the title of the document   |
 |    Text Summarization  | CNN/DailyMail | News       |     <article, summary>     | Generate the summary of the document |
-<!-- ![MTG-tasks](/uploads/tasks.jpg) -->
+ -->
+![MTG-tasks](/uploads/tasks.jpg)
 

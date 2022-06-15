@@ -73,5 +73,6 @@ table
 ![MTG-tasks](/uploads/tasks.jpg)
 
 {{< table path="leaderboard.csv" header="true" caption="Table 1: My results" >}}
+[leaderboard]({{< ref "/leaderboard/leaderboard.md" >}} "About Us")
 
 

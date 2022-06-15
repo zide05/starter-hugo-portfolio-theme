@@ -1,5 +1,5 @@
-﻿models,mtgscores
-mbert,0.1
-xlm,0.2
-mt5,0.3
-mbart,0.4
+﻿Models,MTGScore-XL
+M-BERT,27.72
+XLM,26.99
+mBART,25.63
+mT5,28.63

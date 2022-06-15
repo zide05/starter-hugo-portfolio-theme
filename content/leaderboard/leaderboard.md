@@ -15,7 +15,7 @@ header:
 ---
 
 ## Multilingual results
-{{< table path="multilingual.csv" header="true" caption="Multilingual results" >}}
+{{< table path="multilingual.csv" header="true" >}}
 
 ## Cross-Lingual results
-{{< table path="crosslingual.csv" header="true" caption="Cross-Lingual results" >}}
+{{< table path="crosslingual.csv" header="true" >}}

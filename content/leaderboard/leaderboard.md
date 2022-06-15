@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: MTG LeaderBoard
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -14,4 +14,8 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+## Multilingual results
+{{< table path="multilingual.csv" header="true" caption="Multilingual results" >}}
+
+## Cross-Lingual results
+{{< table path="crosslingual.csv" header="true" caption="Cross-Lingual results" >}}

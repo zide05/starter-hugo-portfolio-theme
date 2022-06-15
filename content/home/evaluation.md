@@ -39,3 +39,8 @@ The system ouputs files should be named as \[TG/QG/SG/Summ\]-xxx.json (e.g., TG-
     "es":[], // results can be empty, it will not be evaluated 
 }
 ```
+
+The results of different systems are displayed in the [leaderboard]({{< ref "/leaderboard/leaderboard.md" >}}).
+
+
+

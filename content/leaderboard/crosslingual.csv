@@ -1,5 +1,5 @@
-﻿Models,MTGScore-XL
-M-BERT,27.72
-XLM,26.99
-mBART,25.63
-mT5,28.63
+﻿Rank,Models,Affiliation,Attempt Date,MTGScore-XL
+1,mT5,Google Research,2022/6/16,28.63
+2,M-BERT,Google research,2022/6/16,27.72
+3,XLM,Facebook AI,2022/6/16,26.99
+4,mBART,Facebook AI,2022/6/16,25.63
